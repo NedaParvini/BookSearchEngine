@@ -25,6 +25,13 @@ Node.js
 
 Heroku
 
-## Preview
 
-![Screenshot](screenshot.gif) 
+## Screenshot
+
+![Screenshot](screenshot.jpg) 
+
+
+## Deployed Heroku Link
+
+
+http://murmuring-waters-80001.herokuapp.com/
